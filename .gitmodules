@@ -1,0 +1,31 @@
+[submodule "content/mu-plugins/wp-regenerate-thumbnails"]
+	path = content/mu-plugins/wp-regenerate-thumbnails
+	url = https://github.com/crowdfavorite/mirror-wp-regenerate-thumbnails.git
+[submodule "content/mu-plugins/wp-db-backup"]
+	path = content/mu-plugins/wp-db-backup
+	url = https://github.com/matzko/wp-db-backup.git
+[submodule "content/mu-plugins/wp-enable-media-replace"]
+	path = content/mu-plugins/wp-enable-media-replace
+	url = https://github.com/crowdfavorite/mirror-wp-enable-media-replace.git
+[submodule "content/mu-plugins/wp-post-formats"]
+	path = content/mu-plugins/wp-post-formats
+	url = https://github.com/crowdfavorite/wp-post-formats.git
+[submodule "content/plugins/woocommerce"]
+	path = content/plugins/woocommerce
+	url = https://github.com/woothemes/woocommerce.git
+[submodule "content/themes/finale"]
+	path = content/themes/finale
+	url = https://github.com/ascottmccauley/finale.git
+[submodule "content/plugins/Better-WP-Security"]
+	path = content/plugins/Better-WP-Security
+	url = https://github.com/bit51/Better-WP-Security.git
+[submodule "content/themes/fin"]
+	path = content/themes/fin
+	url = https://github.com/ascottmccauley/fin.git
+[submodule "wp"]
+	path = wp
+	url = https://github.com/WordPress/WordPress.git
+	ignore = dirty
+[submodule "content/plugins/developer"]
+	path = content/plugins/developer
+	url = https://github.com/Automattic/developer.git
