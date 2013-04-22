@@ -63,8 +63,8 @@ if ( file_exists( dirname( __FILE__ ) . '/wp-config-server.php' ) ) {
  * Custom Content Directory
  *
  */
-define('WP_SITEURL', 'http://' . $_SERVER['SERVER_NAME'] . '/wp');
-define('WP_HOME',    'http://' . $_SERVER['SERVER_NAME']);
+define( 'WP_SITEURL', 'http://' . $_SERVER['SERVER_NAME'] . '/wp');
+define( 'WP_HOME',    'http://' . $_SERVER['SERVER_NAME']);
 define( 'WP_CONTENT_DIR', dirname( __FILE__ ) . '/content' );
 define( 'WP_CONTENT_URL', 'http://' . $_SERVER['HTTP_HOST'] . '/content' );
 
