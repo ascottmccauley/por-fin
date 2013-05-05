@@ -87,7 +87,7 @@ RewriteRule . /index.php [L]
  RedirectMatch 403 (\=\\\'|\=\\%27|/\\\'/?|\)\.css\()$
  RedirectMatch 403 (\,|//|\)\+|/\,/|\{0\}|\(/\(|\.\.\.|\+\+\+|\|)
  RedirectMatch 403 \.(cgi|asp|aspx|cfg|dll|exe|jsp|mdb|sql|ini|rar)$
- RedirectMatch 403 /(contac|fpw|install|pingserver|register)\.php
+ RedirectMatch 403 /(contac|fpw|pingserver|register)\.php
  RedirectMatch 403 (base64|crossdomain|localhost|wwwroot)
  RedirectMatch 403 (eval\(|\_vti\_|\(null\)|echo.*kae)
  RedirectMatch 403 \.well\-known/host\-meta
